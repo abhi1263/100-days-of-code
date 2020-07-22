@@ -8,3 +8,11 @@
 
 **Link to work:** [None]
 
+### Day 1: July 22, 2020 
+
+**Today's Progress**: Started working on a Todo list. Done with 'add task' functionality
+
+**Thoughts:** Since today being the first day, it took me a lot of time and errors to finally complete one functionality. Hopeful for the next days
+
+**Link to work:** Commit Id: https://github.com/abhi1263/learningDjango/commit/88e5fc89528f1523be2149380a444c5f0899f14a 
+
