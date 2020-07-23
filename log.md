@@ -14,5 +14,14 @@
 
 **Thoughts:** Since today being the first day, it took me a lot of time and errors to finally complete one functionality. Hopeful for the next days
 
-**Link to work:** Commit Id: https://github.com/abhi1263/learningDjango/commit/88e5fc89528f1523be2149380a444c5f0899f14a 
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango) 
+[Commit Id](https://github.com/abhi1263/learningDjango/commit/88e5fc89528f1523be2149380a444c5f0899f14a)
 
+### Day 2: July 23, 2020 
+
+**Today's Progress**: Added the edit functionality
+
+**Thoughts:** I am using simple HTML form. After completing CRUD functionalities, will try it with Django forms
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+[Commit Id](https://github.com/abhi1263/learningDjango/commit/2b932db1d2b67010bf4babda59eca5703549b3a9)
