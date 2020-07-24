@@ -23,5 +23,16 @@
 
 **Thoughts:** I am using simple HTML form. After completing CRUD functionalities, will try it with Django forms
 
-**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)(
-[commitId](https://github.com/abhi1263/learningDjango/commit/2b932db1d2b67010bf4babda59eca5703549b3a9))
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/2b932db1d2b67010bf4babda59eca5703549b3a9))
+
+### Day 3: July 24, 2020 
+
+**Today's Progress**: Added the delete functionality, thus completing the simple ToDo application with basic CRUD operation
+
+**Future scope:** 
+1. To learn about Django forms and integrate with Django forms. 
+2. Learn basic testing and implement unit testing of the app
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/94f7880d518df85ad85b4450912ddffacd8784ea))
