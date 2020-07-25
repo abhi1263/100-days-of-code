@@ -36,3 +36,15 @@
 
 **Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
 ([commitId](https://github.com/abhi1263/learningDjango/commit/94f7880d518df85ad85b4450912ddffacd8784ea))
+
+
+### Day 4: July 25, 2020 
+
+**Today's Progress**: Created a new branch on the master repo. Added the task status update functionality. 
+
+**Description:** 
+When a task is done and checkbox is clicked, a ajax call is fired which changes the status of the task and refreshes the page.
+Scope of improvement: This ajax call is redundant, as the page is getting refreshed anyway, to display the changes. Would work on simplying the code and reduce the number of calls to server.
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/e1e8b789ef9a6d5e99955adee3bb537e00657a2a))
