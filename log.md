@@ -48,3 +48,16 @@ Scope of improvement: This ajax call is redundant, as the page is getting refres
 
 **Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
 ([commitId](https://github.com/abhi1263/learningDjango/commit/e1e8b789ef9a6d5e99955adee3bb537e00657a2a))
+
+
+### Day 5: July 26, 2020 
+
+**Today's Progress**: Removed the ajax call for updating task status. Instead, made a form which autosubmits on checkbox click 
+
+**Description:** 
+When user clicks on the checkbox, form is autosubmitted and the status of the task is updated.
+
+**Further scope**: Implement user authorization/authentication, unit testing
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/b17de11856ff8b16baa6ae95927a1a39baa2f0d5))
