@@ -59,5 +59,15 @@ When user clicks on the checkbox, form is autosubmitted and the status of the ta
 
 **Further scope**: Implement user authorization/authentication, unit testing
 
+
+### Day 6: July 27, 2020 
+
+**Today's Progress**: Removed the reduntant view 'edit_task_save' 
+
+**Description:** 
+That view was unnecessary because it could be combined in one single view. Now the 'edit_task' view firstly fetches task details and passes it to the form template and then saves the data from the form template to the database.
+
+**Further scope**: Same as before
+
 **Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
-([commitId](https://github.com/abhi1263/learningDjango/commit/b17de11856ff8b16baa6ae95927a1a39baa2f0d5))
+([commitId](https://github.com/abhi1263/learningDjango/commit/5a6dacec934c6d8b0372c1ed590330460e8526e2))
