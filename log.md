@@ -71,3 +71,28 @@ That view was unnecessary because it could be combined in one single view. Now t
 
 **Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
 ([commitId](https://github.com/abhi1263/learningDjango/commit/5a6dacec934c6d8b0372c1ed590330460e8526e2))
+
+
+### Day 7: July 28, 2020 
+
+**Today's Progress**: Added 'requirements.txt'
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/670a95a9a71a520cede8d6806222ef9005d051bb))
+
+
+### Day 8: July 29, 2020 
+
+**Today's Progress**: Created view for user-registration using Django's inbuilt user model
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/c671517f300cbe10ee592aa2bee191301183a513))
+
+
+### Day 9: July 30, 2020 
+
+**Today's Progress**: Finished with User-registraion functionality(Forms, Views, Templates)
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/4ea9b3681fad5f211d3edb7a7837b8c07473fab2))
+
