@@ -96,3 +96,69 @@ That view was unnecessary because it could be combined in one single view. Now t
 **Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
 ([commitId](https://github.com/abhi1263/learningDjango/commit/4ea9b3681fad5f211d3edb7a7837b8c07473fab2))
 
+
+### Day 10: July 31, 2020 
+
+**Today's Progress**: Added user login/authentication functionality
+
+**Description:** 
+Registered user can log in and view the index page. Only login functionality has been added. Tasks doesn't have relationship with user
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/371630940de98e81686874fe5c2bcfcb71e89f46))
+
+### Day 11: August 1, 2020 
+
+**Today's Progress**: Fixed the issue: Login/Signup page was visible to authenticated user
+
+**Description:** 
+Already logged in user could still visit the signup/login page. Issue was fixed by checking if user is authenticated and redirecting them, if True
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/ea18605bdfadcd5678c69ca6f32c856318ff9c9e))
+
+### Day 12: August 2, 2020 
+
+**Today's Progress**: One-to-many relationship between user and tasks model added
+
+**Description:** 
+Previously, tasks created didn't have any author. Now each task has an author(user) associated. One-to-many relationship between User model and Task model
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/7a9ef8b318c60139bcdeb513bba5d9492a620fd6))
+
+### Day 13: August 3, 2020 
+
+**Today's Progress**: Working on registration form validations
+
+**Description:** 
+Display form validation errors to user during sign up
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](https://github.com/abhi1263/learningDjango/commit/cc585b802122570e2aac5f27e0035ad1d2176855))
+
+### Day 14: August 4, 2020 
+
+**Today's Progress**: Completed form validation error display, fixed issue, initialised unit-test configurations to project
+
+**Description:** 
+Completed with the form validation error display and fixed issue:Any user can edit any task. Also initialised unit-test configurations to project
+This small project almost reaches finish line. Over the days, will add test-suite and then integrate with master branch
+
+**Link to work:** [SimpleTodo](https://github.com/abhi1263/learningDjango)
+([commitId](b620f40bc5bc234545dcfdb3106cb3dbbf789342, 60c372bc8518aec5659b8bbcad9e330d8e740ddf, c7149bbf3b115b64a48f17c37d724c9eb4f3a955))
+
+### Day 15: August 5, 2020 
+
+**Today's Progress**: Started contributing on Uday Khalsa's repo on Bitbucket
+
+**Description:** 
+Since, the project is hosted on private repository, created a mock repo to import all commit log(Containing mock code and mock commit).
+Working on Django.
+
+**Things learned:**
+1. How to pull, merge, push and create pull request on git
+2. How to write unit test cases, test suites in Django
+
+**Link to work:** [Mock Repo](https://github.com/abhi1263/mock-commit-from_bitbucket)
+
